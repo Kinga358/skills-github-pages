@@ -2,4 +2,5 @@ theme: minima
 title: My blog
 description: This is where I share cool stuff about my life
 author: Kinga
-scr: https://pixabay.com/pl/images/search/axolotl/
+
+<img alt="akselot" scr: "https://pixabay.com/pl/images/search/axolotl/">
